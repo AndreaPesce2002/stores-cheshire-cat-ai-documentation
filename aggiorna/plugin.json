@@ -1,0 +1,10 @@
+{
+  "name": "aggiorna",
+  "description": "il plugion permette di aggironare la memora del gatto con tutta la documentazione",
+  "author_name": "Andrea Pesce",
+  "author_url": "https://github.com/AndreaPesce2002",
+  "plugin_url": "",
+  "tags": "plugins",
+  "thumb": "",
+  "version": "1.0.0"
+}
