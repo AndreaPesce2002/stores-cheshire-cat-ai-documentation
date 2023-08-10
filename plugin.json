@@ -1,9 +1,9 @@
 {
-  "name": "aggiorna",
-  "description": "il plugion permette di aggironare la memora del gatto con tutta la documentazione",
+  "name": "stores cheshire cat ai documentation",
+  "description": "the plugin allows you to update the cat's memory with all the documentation",
   "author_name": "Andrea Pesce",
   "author_url": "https://github.com/AndreaPesce2002",
-  "plugin_url": "",
+  "plugin_url": "https://github.com/AndreaPesce2002/stores-cheshire-cat-ai-documentation",
   "tags": "plugins",
   "thumb": "",
   "version": "1.0.0"
