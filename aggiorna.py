@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 
 @tool
 def aggiorna(none,cat):
-    """Replies to 'update documentation'."""
+    """use the tool only when the phrase "update the documentation" is used the phrase must be used alone."""
     url = 'https://cheshire-cat-ai.github.io/docs/'
     
     collections=VectorMemory(cat).collections['declarative']
