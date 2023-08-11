@@ -59,7 +59,7 @@ def aggiorna(none,cat):
                         collections.delete_points(links_id['id'])
                         log("deleted...", "WARNING")
 
-                cat.rabbit_hole.ingest_url(link, chunk_size=400, chunk_overlap=100, summary=False)
+                cat.rabbit_hole.ingest_file(link, chunk_size=400, chunk_overlap=100)
 
                 log(link + " sent to rabbithole!", "WARNING")
                 message = message + "<tr><td>" + link + "</td><td>&#x2705;</td></tr>"
